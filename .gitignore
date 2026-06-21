@@ -76,7 +76,6 @@ wandb/
 mlruns/
 
 # Audio/data cache files
-*.npy
 *.npz
 *.parquet
 *.feather
