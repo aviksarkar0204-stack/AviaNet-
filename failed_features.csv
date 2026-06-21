@@ -1,0 +1,5 @@
+idx,path,error
+2670,../sliced_clips\comgra_2674.wav,can't extend empty axis 0 using modes other than 'constant' or 'empty'
+12921,../sliced_clips\cangoo_12947.wav,can't extend empty axis 0 using modes other than 'constant' or 'empty'
+14074,../sliced_clips\swaspa_14100.wav,can't extend empty axis 0 using modes other than 'constant' or 'empty'
+47596,../sliced_clips\sonspa_47623.wav,can't extend empty axis 0 using modes other than 'constant' or 'empty'
